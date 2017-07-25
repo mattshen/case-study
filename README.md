@@ -1,4 +1,5 @@
 # case-study
 
 ### http cache
-### http token
+### http refresh token
+### http infinite scrolling list
